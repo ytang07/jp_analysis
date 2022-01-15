@@ -1,0 +1,4 @@
+ORG Marvel
+PERSON Freud
+DATE a new day
+LOC Europe

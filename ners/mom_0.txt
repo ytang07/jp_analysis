@@ -1,0 +1,156 @@
+DATE the early 80's
+DATE 1984
+DATE the 1950
+PERSON Regan
+DATE the 1980
+PERSON Reagan
+PERSON Gorbachev
+LOC South
+DATE 1950
+DATE 1984
+PERSON Ronald Reagan
+DATE 5 years later
+DATE 1989
+PERSON Mao
+LOC South East Asia
+LOC Africa
+PERSON Pareto
+ORG Pareto
+DATE last year
+PERSON Stephen King
+PERSON Pareto
+PERSON Pareto
+MONEY billions of dollars
+ORG Apple
+MONEY a trillion dollars
+MONEY 28 billion dollars
+PERSON Bill Gates
+PERSON Wayne Gretzky
+PERSON Wayne Gretzky
+DATE 5 days
+EVENT the Cold War
+PERSON Bill Gates
+PERSON Steve Jobs
+PERSON Elon Musk
+DATE between 1919 and 1959
+PERSON George Orwell
+DATE the 30's
+DATE the 30
+LOC Northern U.K.
+TIME 8 hours
+TIME 8 hours
+DATE 30
+DATE 1895
+MONEY a dollar
+DATE today
+PERSON Marx
+PERSON John Stuart Mill
+PERSON John Locke
+DATE 70 years
+DATE 1989
+LOC Eastern Europe
+DATE 40 years ago
+DATE 50 years ago
+DATE the last 15 years
+EVENT the cold war
+LOC West
+PERSON Stalin
+DATE the 20th century
+PERSON Stalin
+PERSON Khrushchev
+PERSON Khrushchev
+LOC Western Europe
+LOC Bloor
+TIME 30 seconds
+TIME five seconds
+PERSON Dan Simon
+PERSON David Hume
+PERSON David Hume
+PERSON Sam Harris
+PERSON Hume
+ORG U.N.
+ORG U.N.
+PERSON Nietzsche
+PERSON Nietzsche
+LOC West
+DATE the next 300 years
+DATE the last 500 years
+PERSON Nietzche
+PERSON Nietzsche
+DATE the late 1800's
+DATE about 80 years
+DATE 3 billion years
+PERSON Camille Paglia
+DATE the other day
+PERSON Camille Paglia
+PERSON Erich Neumann
+PERSON Carl Jung
+PERSON Jung
+PERSON Joseph Campbell's
+PERSON Mircea Eliade's
+PERSON Paglia
+DATE between the ages of 16 and 20
+TIME this morning
+DATE 3 months
+PERSON Tom Hanks
+ORG Harvard
+DATE today
+ORG Disney
+PERSON Pinocchio
+PERSON Pinocchio
+PERSON Paglia
+PERSON Paglia
+PERSON Jung
+PERSON Jung
+PERSON Paglia
+PERSON Jung
+DATE two year old
+TIME 9:00 in the morning
+PERSON Dosytoevsky
+PERSON Dostoevsky
+PERSON Dostoevsky
+DATE more than 10,000 years
+DATE tens of thousands of years
+DATE 10,000 years
+PERSON Nietzsche
+DATE a few days
+ORG Marvel
+PERSON Odin
+PERSON Odin
+PERSON Thor
+PERSON Thor
+PERSON Loki
+DATE decades
+DATE like 30 years
+PERSON Alyosha
+PERSON Ivan
+PERSON Ivan
+PERSON Ivan
+PERSON Alyosha
+PERSON Dostoyevsky
+PERSON Ivan
+PERSON Alyosha
+TIME 1 second ago
+PERSON Pinocchio
+DATE about four days
+DATE three months
+DATE two weeks
+PERSON Pinocchio
+ORG Disney
+TIME about ten minutes
+DATE today
+PERSON Geppetto
+ORG People
+LOC the Milky Way
+LOC the Grand Canyon
+ORG the future authoring program
+DATE 3 to 6 months
+DATE 3 to 5 years
+DATE 13 year old
+TIME 15 minutes
+DATE 3 to 5 years
+DATE 3 to 5 years
+ORG Starbucks
+DATE this week
+DATE six
+DATE around six

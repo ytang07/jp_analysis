@@ -1,0 +1,222 @@
+PERSON Pinokio
+PERSON Pinokio
+PERSON Freud
+PERSON Frans de Waal
+PERSON de Waal
+PERSON de Waal
+PERSON Jaak Panksepp's
+PERSON Panksepp
+MONEY 300 dollars
+DATE 5 or 6 years
+ORG YouTube
+DATE 3-year-old
+DATE 4-year-olds
+PERSON Piaget
+PERSON Panksepp
+DATE six-year-old
+DATE five-year-old
+TIME six hours
+PERSON Piaget
+PERSON Piaget
+DATE seven-year-olds
+DATE seven-year-old
+PERSON Pinokio
+PERSON Pinokio
+PERSON Pinokio
+PERSON Pinok
+PERSON Pinokio
+DATE the next day
+TIME three in the morning
+PERSON Freud
+DATE the new day
+PERSON Pinokio
+PERSON Gepetto
+PERSON Gepetto
+PERSON Pinokio
+PERSON Marx
+PERSON Harpo Marx
+PERSON Wile E. Coyote
+ORG Warner Brothers
+DATE the 1890s
+PERSON Robert Hare
+PERSON Paul Bernardo
+PERSON Paul Bernardo
+DATE seventeen years ago
+PERSON Paul Bernardo
+PERSON Stomboli
+PERSON Pinokio
+PERSON Stromboli
+PERSON Stromboli
+PERSON Stromboli
+PERSON Trump
+PERSON Putin
+PERSON Putin
+PERSON Stromboli
+PERSON Stromboli
+PERSON Pinokio
+PERSON Stromboli
+PERSON Pinokio
+PERSON Pinokio
+PERSON Kardashian
+DATE 18 years
+PERSON plust
+PERSON Carl Jung
+PERSON Edipal
+PERSON Edipal
+PERSON Freud
+PERSON Cartman
+PERSON Cartman
+PERSON Pinokio
+PERSON Stromboli
+PERSON Jung
+PERSON Nietzsche
+PERSON Pinokio
+PERSON Pinokio
+PERSON Piaget
+PERSON Jesus Chris
+DATE his first day
+PERSON Pinokio
+PERSON Gepetto
+TIME 15-minute
+PERSON Pinokio
+PERSON Pinokio
+TIME 15 minutes
+PERSON Pinokio
+PERSON Pinokio
+DATE two-year-old
+DATE two-year-old
+DATE two-year-old
+PERSON Stromboli
+PERSON Pinokio
+PERSON Stromboli
+PERSON Stromboli
+PERSON Pinokio
+PERSON Stromboli
+PERSON Stromboli
+TIME half a second
+PERSON Pinokio
+PERSON Pinokio
+PERSON Adam
+PERSON Eve
+PERSON Adam
+PERSON Stromboli
+PERSON Pinokio
+PERSON Pinokio
+PERSON Stromboli
+PERSON Pinokio
+PERSON Stromboli
+PERSON Hitler
+EVENT World War I
+EVENT World War I
+PERSON Ghandi
+PERSON Tolstoy
+PERSON Tolstoy
+PERSON Tolstoy
+PERSON Ghandi
+PERSON Tolstoy
+PERSON Tolstoy
+PERSON Ghandi
+PERSON Ghandi
+PERSON Hitler
+PERSON Nietzsche
+DATE that day
+PERSON Pinokio
+PERSON Stromboli
+PERSON Gepetto
+PERSON Gepetto
+PERSON Stromboli
+TIME tonight
+DATE a pretty good day
+PERSON Pinokio
+PERSON Pinokio
+PERSON Pinokio
+PERSON Solzhenitsyn
+ORG KGB
+DATE a thousand years
+PERSON Louis CK
+TIME the other night
+DATE 9-year-old
+PERSON CK
+PERSON Pinokio
+PERSON Jung
+PERSON Pinokio
+DATE about a year and a half old
+PERSON Pinokio
+PERSON Mark Twain
+PERSON Samuel Clemens
+TIME half and hour
+PERSON Anthony Weiner
+PERSON Nixon
+PERSON Pinokio
+DATE 11
+PERSON Pinokio
+PERSON Pinokio
+PERSON Jung
+PERSON Dante
+PERSON Dante
+PERSON Inferno
+PERSON Dante
+PERSON Dante
+PERSON Satan
+PERSON Dante
+PERSON Dante
+PERSON Milton
+PERSON Jung
+PERSON Jung
+PERSON Daniel Day-Lewis
+PERSON Coachman
+PERSON Santa Claus
+PERSON Pinokio
+PERSON the Puppet Master
+PERSON bucko
+DATE four-year-old
+PERSON Coachman
+TIME a second
+PERSON Coachman
+PERSON Fox
+PERSON Coachman
+PERSON Pinokio
+LOC Pleasure Island
+PERSON Fox
+PERSON Fox
+PERSON Cat
+PERSON Coachman
+PERSON Fox
+PERSON Cat
+PERSON Brett Hart
+PERSON Brett Hart
+ORG a World Wide Wrestling Foundation
+ORG WWF
+PERSON Stu Hart
+PERSON Stu Hart
+PERSON Stu Hart
+DATE 85
+DATE 40 years
+PERSON Stu
+PERSON Brett
+PERSON Stu
+DATE the old days
+PERSON Stu
+PERSON Stu
+PERSON Stu
+PERSON Peterson
+PERSON Brett Hart
+PERSON Brett
+PERSON Brett Hart
+PERSON Dostoevsky
+PERSON Nietzsche
+PERSON Dostoevsky
+PERSON Dostoevsky
+PERSON Nietzsche
+PERSON Dostoevsky
+PERSON Harry Potter
+TIME 20 hours
+TIME 12-hour
+TIME 2 hours
+DATE 4-year old
+DATE 6-year old
+TIME midnight
+DATE a week
+DATE two weeks
+TIME 10 minutes later
+TIME 10 minutes

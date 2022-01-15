@@ -1,0 +1,35 @@
+DATE today
+PERSON Aleksandr Solzhenitsyn
+EVENT World War II
+PERSON Hitler
+PERSON Stalin
+PERSON Hitler
+LOC Europe
+PERSON Hitler
+PERSON Solzhenitsyn
+PERSON Solzhenitsyn
+DATE the early 1960s
+PERSON Stalin
+DATE the end of the 1950s
+PERSON Khrushchev
+PERSON Khrushchev
+PERSON Stalin
+PERSON Stalin
+PERSON Khrushchev
+PERSON Khrushchev
+PERSON Stalin
+EVENT World War
+PERSON Stalin
+DATE the early 1960s
+PERSON Solzhenitsyn
+DATE one day
+PERSON Solzhenitsyn
+PERSON Tolstoy
+PERSON Dostoevsky
+PERSON Shakespeare
+PERSON Lenin
+PERSON Stalin
+PERSON Solzhenitsyn
+DATE between 1919 and 1959
+EVENT World War
+PERSON Solzhenitsyn

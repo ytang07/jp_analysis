@@ -1,0 +1,224 @@
+PERSON Civet
+EVENT the Cold War
+PERSON Marx
+ORG Group a
+ORG Group B
+DATE the late 1900s late 1800s
+DATE the end of the 20th century
+ORG the University of Toronto
+DATE the 20th century
+DATE the 20th century
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Dostoevsky
+DATE the last hundred and twenty years
+PERSON Dostoyevsky
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Dostoyevsky
+PERSON Dostoyevsky
+PERSON Raskolnikov
+PERSON Dostoyevsky
+PERSON Raskolnikov
+PERSON Raskolnikov
+PERSON Dostoyevsky
+DATE days
+DATE days
+DATE weeks
+PERSON Dostoyevsky
+PERSON Dostoyevsky
+PERSON Sookie
+PERSON Sam Harris
+PERSON Dawkins
+PERSON Harris
+PERSON Dostoyevsky
+PERSON Nietzsche
+PERSON Stan
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Dostoevsky
+DATE the 20th century
+PERSON Marx
+PERSON Freud
+PERSON Dostoyevsky
+PERSON Shakespeare
+PERSON Shakespeare
+PERSON God
+PERSON Nietzsche
+PERSON Dostoevsky
+PERSON Dostoyevsky
+PERSON Solzhenitsyn Solzhenitsyn
+DATE the 20th century
+EVENT World War two
+EVENT Holocaust
+PERSON Solzhenitsyn
+PERSON Putin
+ORG the Orthodox Christian Church
+DATE decades
+DATE centuries
+PERSON Solzhenitsyn
+PERSON Dostoevsky
+PERSON Janette
+PERSON Muhammad Ali
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Superman
+PERSON Hitler
+PERSON Hitler
+PERSON Hitler
+PERSON Hitler
+PERSON Hitler
+PERSON Hitler
+PERSON Hitler
+PERSON Hitler
+EVENT World War one
+EVENT World War one
+EVENT World War one
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Dostoevsky
+PERSON Solzhenitsyn
+PERSON Nietzsche
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON ferrell
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Young
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Jung
+PERSON Freud
+PERSON Jung
+PERSON Jung
+PERSON Eric Newman
+PERSON Jung
+PERSON Jung
+PERSON Piaget
+PERSON Laura Freud
+PERSON Freud
+PERSON Jung
+PERSON Jung
+PERSON Jung
+PERSON Buddha
+PERSON Buddha
+PERSON Buddha
+PERSON Dostoyevsky
+PERSON Neches
+ORG PHA
+PERSON Piaget
+PERSON Piaget
+DATE thousands of years
+PERSON Jung
+PERSON Jung
+PERSON Yuri
+LOC Amazon
+PERSON Marduk
+PERSON Marduk
+PERSON Seth
+PERSON Seth
+PERSON Horus
+PERSON Nietzsche
+PERSON Mik
+PERSON Myrcella
+PERSON Nietzsche
+PERSON Superman
+PERSON Joseph Campbell
+PERSON Campbell
+PERSON Campbell
+PERSON Jung
+PERSON Campbell
+PERSON Union
+PERSON Jung
+DATE today
+PERSON Buddha
+PERSON Buddha
+DATE thousands of years
+PERSON Genesis
+PERSON noah
+DATE fourteen thousand years
+DATE 20,000 years
+DATE 30,000 years
+LOC Africa
+PERSON Knight
+PERSON Piaget
+LOC Central America
+LOC the Garden of Eden
+PERSON Hieronymus Bosch
+PERSON Hieronymus Bosch
+DATE the 15th century
+DATE 15th century
+PERSON Salvador deli
+PERSON Hieronymous Bosch
+PERSON Joe
+PERSON Cain
+PERSON God
+PERSON Lance
+PERSON Tod
+PERSON Tohu Wabo
+PERSON Touhou Wabo
+PERSON Toa Touhou Wabo
+ORG ANU
+PERSON Clee
+DATE the second day
+PERSON gimme
+ORG UCLA
+PERSON Carver
+LOC Siberia
+LOC Leviathan
+PERSON David Suzuki
+PERSON Amit
+PERSON Eve
+PERSON Adam
+PERSON Eve
+PERSON Lynn
+PERSON Bell
+DATE tomorrow
+DATE next week
+DATE next month
+DATE next year
+LOC paradise
+PERSON Cain
+PERSON Benny
+DATE the latter half of the 20th century
+DATE a year
+PERSON Minter
+LOC Europe
+PERSON Buddha
+PERSON Buddha
+PERSON Gautama
+LOC Orient
+PERSON Buddha
+DATE four years old
+PERSON Gautama
+PERSON Adam
+PERSON Eve
+PERSON Eve
+PERSON Geppetto
+PERSON Geppetto
+PERSON Pinocchio
+PERSON Pinocchio
+PERSON Dostoevsky
+PERSON dosti
+PERSON Dostoyevsky
+PERSON Buddha
+PERSON Buddha
+EVENT Olympics
+PERSON Buddha
+PERSON Benton
+PERSON Buda
+PERSON Buddha
+PERSON Eve
+PERSON granny
+PERSON Pinocchio

@@ -1,0 +1,97 @@
+PERSON Grimm
+PERSON Pinocchio
+PERSON Geppetto
+PERSON Pinocchio
+MONEY hundreds of millions of dollars
+ORG Marvel
+PERSON Jonah
+PERSON Jonah
+PERSON Camille Paglia
+PERSON lay
+PERSON Descartes
+PERSON Newton
+DATE five six hundred years ago
+PERSON Jonah
+PERSON Jonah
+PERSON scar
+PERSON scar
+PERSON skaar
+PERSON joan
+PERSON jonah
+PERSON Gepetto
+TIME 6:00 in the morning
+PERSON Carl Jung
+PERSON Givens
+PERSON Givens
+PERSON Jonas
+PERSON st. George
+PERSON Harry Potter
+PERSON Harry Potter
+PERSON Dursley
+PERSON Harry
+PERSON Harry
+ORG Christianity
+PERSON Harry
+PERSON Jonah
+PERSON George
+PERSON Harry Potter
+PERSON Harry Potter
+PERSON Harry
+PERSON Harry Potter
+PERSON Lynn Isbell
+ORG UCLA
+PERSON Harry Potter
+PERSON Jonah
+PERSON Ginny
+PERSON st. George
+PERSON Harry Potter
+PERSON Harry Potter
+PERSON Virginia
+PERSON Ginny
+PERSON Ginevra
+PERSON Dumbledore
+PERSON Harry Potter
+DATE 40
+TIME that 20 hours
+PERSON Harry
+DATE a year ahead
+PERSON Freud
+PERSON Gibson
+PERSON Gibson
+TIME two hours
+TIME two hours
+DATE today
+PERSON Gazza nigga
+PERSON Gazzaniga
+PERSON Gazzaniga
+PERSON Laden
+PERSON Laden
+PERSON Pat
+TIME two hours
+DATE six months
+DATE decades
+DATE decades
+DATE the early 60s
+PERSON Thomas
+PERSON Szasz
+DATE like 15 years
+PERSON Jonah
+PERSON Seyfarth
+DATE about 7 million years ago
+PERSON Darwin
+PERSON Darwin
+PERSON Robert Sternberg
+PERSON Howard Gardner
+DATE three months
+PERSON Roger Rabbit
+ORG Cubs
+PERSON Freud
+PERSON God
+PERSON Nietzsche
+DATE the late 1800s
+DATE the late 1800s
+PERSON Nietzsche
+PERSON God
+PERSON echip
+DATE the 20th century
+PERSON Dostoyevsky

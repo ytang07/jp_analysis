@@ -1,0 +1,6 @@
+DATE next week
+PERSON Sol
+TIME three minutes
+ORG penguin Random House
+MONEY 10,000
+LOC Europe

@@ -1,0 +1,52 @@
+DATE today
+TIME a minute
+DATE pre-pubescent
+DATE twenty
+DATE under nine months
+DATE under nine months
+DATE under nine months
+DATE under nine months old
+TIME twenty-four hours
+DATE under nine months
+DATE under nine months
+DATE eighteen months old
+DATE under nine months
+PERSON Colin DeYoung
+DATE two year olds
+DATE 30 three year olds
+DATE 30 four year olds
+DATE eighteen
+DATE the two year olds
+DATE two year olds
+DATE two year olds
+DATE two year olds
+DATE the next 2-4 years
+DATE four years old
+DATE two year olds
+DATE four
+DATE nine months
+DATE six year old
+TIME five hours
+DATE the age of four
+DATE four
+DATE the age of four
+DATE three year old
+DATE four years old
+DATE a four year old
+DATE four year old
+DATE two
+DATE five year old
+DATE five year old
+DATE two year old
+DATE between the ages roughly of sixteen and about twenty-five
+DATE sixteen to twenty-five
+DATE age twenty-five
+DATE twenty-six
+TIME late at night
+DATE last week
+LOC North America
+LOC North America
+LOC North and South America
+DATE 15-20 years
+TIME a minute
+TIME three minutes

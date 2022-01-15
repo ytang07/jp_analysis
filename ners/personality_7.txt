@@ -1,0 +1,68 @@
+PERSON Martin Heidegger
+PERSON Heidegger
+DATE the turn of the century
+DATE the previous century
+DATE from the 19th to the 20th century
+DATE thousand of years
+DATE the.. 19th century
+PERSON Newton
+PERSON Einstein
+PERSON Rie
+PERSON Riemannn
+PERSON Einstein
+PERSON Piaget
+PERSON Heidegger
+PERSON Rogers So
+PERSON Nietzsche
+DATE the end of the 19th century
+PERSON Heidegger
+DATE the last 50 years
+PERSON Heidegger
+PERSON Heidegger
+PERSON Heidegger
+PERSON Heidegger
+PERSON Rogers
+DATE 55 years old
+ORG itelligence
+PERSON Jung
+PERSON Piaget
+PERSON Jung
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Jung
+PERSON Jung
+PERSON Piagetian
+ORG the Future Authoring Program
+DATE two to three years
+DATE like 10 years
+DATE 20 years
+PERSON Jung
+TIME 10 minutes
+DATE six months
+DATE every day
+DATE everyday
+DATE every day
+PERSON Jung
+DATE ten years
+TIME half an hour
+DATE about five years
+ORG University
+PERSON Rogers
+PERSON Rogers
+PERSON ROGERS
+PERSON Piagetian
+PERSON Piaget
+PERSON Rodgers
+PERSON Rogers
+PERSON ROGERS
+PERSON PETERSON
+PERSON Jung
+PERSON ROGERS
+PERSON PETERSON
+PERSON Rogers
+TIME an hour
+TIME an hour ago
+PERSON Rogers
+PERSON ROGERS
+PERSON PETERSON

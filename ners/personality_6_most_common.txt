@@ -1,0 +1,6 @@
+PERSON Freud
+TIME an hour
+DATE Victorian
+LOC Europe
+MONEY less than a dollar
+ORG Netflix

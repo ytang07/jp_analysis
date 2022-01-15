@@ -1,0 +1,83 @@
+DATE today
+DATE today
+DATE today
+DATE the 20th century
+DATE the early 60s
+PERSON Vinogradova
+PERSON Sokolov
+PERSON Alexander Luria
+DATE the 20th century
+PERSON Luria
+DATE the upcoming
+PERSON Luria
+PERSON Sokolov
+PERSON Vinogradova
+PERSON Sokolov
+PERSON Charles Darwin
+PERSON Sokolov
+PERSON Sokolov
+PERSON Sokolov
+DATE days
+DATE weeks
+DATE months
+DATE years
+DATE the early 1960s
+PERSON Monet
+DATE sixteen
+DATE forty
+PERSON Dan Simon
+PERSON John Vervaeke
+DATE 30 million years ago
+LOC Earth
+DATE the late 1800's
+TIME about nine minutes
+DATE two years ago
+TIME last night
+PERSON Beck
+PERSON Kant
+PERSON Freudian
+PERSON Piaget
+PERSON Piaget
+PERSON Naomi Klein
+DATE five thousand year
+PERSON Moses Adam
+PERSON Descartes
+PERSON Bacon
+DATE the last thousand years
+DATE the last five hudred years
+PERSON Aristotle
+PERSON Aristotle
+DATE five hundred years ago
+DATE a million years
+PERSON bucko
+PERSON Shakespeare
+PERSON Shakespeare
+DATE some hundreds of years later
+PERSON Piaget
+PERSON Huxley
+EVENT the Democratic convention
+PERSON Obama
+PERSON George Washington
+PERSON Freud
+PERSON Freud
+PERSON Freud
+DATE the late XIX and early XX century
+DATE eight years
+PERSON van Gogh
+MONEY 220 milion dollars
+PERSON van Gogh
+PERSON David Goodsell
+ORG the Scrips (?) Institute
+DATE many years ago
+DATE about a semester
+TIME 7 minutes
+DATE today
+DATE over a hundred years
+PERSON Piaget
+PERSON Skinner
+PERSON Skinner
+DATE tomorrow
+DATE next week
+DATE next month
+PERSON Piaget
+PERSON Piaget

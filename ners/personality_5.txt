@@ -1,0 +1,162 @@
+PERSON Mufasa
+LOC Pride Rock
+PERSON Piaget
+PERSON Mufasa
+PERSON Mufasa
+ORG UN
+ORG UN
+PERSON Dallaire
+PERSON Trump
+ORG Cambridge analytics
+PERSON Trump
+PERSON Karl Popper
+PERSON bush
+PERSON George W
+PERSON Rumsfeld
+DATE the late
+20th century
+ORG Zellers
+PERSON Dylan Klebold
+MONEY dollar
+PERSON panzram
+PERSON Mufasa
+TIME the last minute
+DATE four
+DATE eight
+DATE 17
+DATE about 27
+DATE 4
+DATE 6
+DATE 6
+DATE 17
+PERSON Freud
+PERSON James Pennebaker
+PERSON Simba
+PERSON Savior
+PERSON Lee
+PERSON Mufasa
+PERSON Simba
+PERSON Hitler
+PERSON Hitler
+DATE 1939
+ORG PLoS ONE
+DATE about
+
+PERSON Hitler
+PERSON Hitler
+PERSON scar
+ORG the Catholic Church
+ORG rationalism
+DATE at least the last thousand years or so
+PERSON Stalin
+PERSON scar
+PERSON scar
+PERSON scars
+PERSON scar
+PERSON Mufasa
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Simba
+PERSON scar
+PERSON scar
+PERSON Harry Potter
+PERSON Harry Potter
+PERSON Simba
+PERSON Simba
+PERSON scar
+PERSON Zazu
+PERSON Mufasa
+PERSON Simba
+DATE at least several thousand years
+PERSON Simba
+DATE two
+
+PERSON Simba
+PERSON Tim
+PERSON Timon
+PERSON Simba
+DATE fifteen
+DATE three to six
+
+PERSON Skaar
+PERSON Skaar
+DATE 1989
+LOC North America
+LOC North America
+DATE 20 years
+PERSON Stalin
+DATE hundreds of years
+PERSON scar
+PERSON Rafiki
+PERSON Simba
+ORG Union
+PERSON Simba
+PERSON man
+PERSON Pumbaa
+PERSON Timon
+PERSON Freud
+PERSON Hakuna Matata
+PERSON Pinocchio
+PERSON Simba
+PERSON Carl Rogers
+PERSON Simba
+PERSON Geppetto
+PERSON Pinocchio
+PERSON Rafiki
+PERSON Rafiki
+PERSON Simba
+PERSON Rafik
+PERSON God
+PERSON Simba
+PERSON Simba
+PERSON simha
+PERSON Rafiki
+PERSON Simba
+PERSON Simba
+PERSON Rafiki
+PERSON Rafiki
+PERSON Simba
+PERSON Rafiki
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Rafiki
+PERSON Simba
+PERSON Rafiki
+PERSON Simba
+PERSON nelja
+PERSON Simba
+PERSON Skaar
+PERSON Simba
+PERSON scar
+PERSON scars
+PERSON Simba
+PERSON scar
+PERSON scar
+PERSON scar
+ORG Disney
+PERSON scar
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON scar
+PERSON Simba
+LOC Pride Rock
+PERSON Simba
+PERSON Rafiki
+TIME 20 minutes
+TIME a minute
+PERSON Jung
+PERSON Richard Dawkins
+PERSON Dawkins
+PERSON Carl Jung
+DATE 20 years ago
+PERSON Darwin
+PERSON Darwin
+DATE about twenty
+
+PERSON Dawkins
+PERSON Moroz

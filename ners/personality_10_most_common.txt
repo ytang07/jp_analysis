@@ -1,0 +1,4 @@
+DATE the early 1960s
+PERSON Stalin
+EVENT World War
+LOC Europe

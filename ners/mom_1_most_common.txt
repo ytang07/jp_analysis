@@ -1,0 +1,5 @@
+ORG Disney
+DATE two year old
+PERSON Geppetto
+TIME a tenth of a seconds
+LOC South America

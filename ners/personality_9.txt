@@ -1,0 +1,60 @@
+LOC North America
+PERSON Binswanger
+PERSON Boss
+PERSON Martin Heidegger
+DATE the 20th century's
+PERSON Jung
+PERSON Rogers
+PERSON Dasein
+PERSON Heidegger
+DATE yesterday
+DATE 15th century
+DATE 16th century
+DATE the next week
+DATE sixteen
+DATE 35
+PERSON Dasein
+TIME the next hour
+PERSON Medard Boss
+PERSON Martin Heidegger
+PERSON Husserl
+PERSON Edmund Husserl
+PERSON Martin Heidegger's
+PERSON Ludwig Binswanger
+PERSON Freud
+PERSON Jung
+PERSON Binswanger
+PERSON Binswanger
+DATE about 500 years ago
+DATE 8 month year old
+PERSON Binswanger
+DATE two days
+DATE three days
+PERSON Binswanger
+PERSON Boss
+PERSON Binswanger
+PERSON Boss
+PERSON Binswanger
+PERSON Boss
+PERSON Binswanger
+PERSON Boss
+PERSON Rowling
+PERSON Harry Potter
+DATE three and a half billion years
+PERSON Mercurius
+PERSON Harry Potter
+LOC the Atlantic Ocean
+PERSON Stephen Hawking
+PERSON Stephen
+PERSON Stephen Hawking
+PERSON Stephen Hawking
+PERSON Stephen Hawking
+DATE about two years
+PERSON Dante
+PERSON Dante
+PERSON Dante
+PERSON Dante
+PERSON Magritte
+PERSON Magritte
+DATE about a year later
+PERSON Michelangelo

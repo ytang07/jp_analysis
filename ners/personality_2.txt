@@ -1,0 +1,174 @@
+LOC Earth
+LOC Africa
+LOC Diaspora
+DATE about
+
+PERSON Carl Jung
+PERSON Simba
+PERSON Dostoyevsky
+PERSON Dostoyevsky
+PERSON Tolstoy
+PERSON Dostoyevsky
+PERSON Dostoyevsky
+PERSON Cobb
+PERSON Raskolnikov
+DATE the 1880s
+PERSON Raskolnikov
+PERSON Dostoyevsky
+PERSON Dostoevsky
+PERSON Olenick
+PERSON Olenick
+PERSON Raskolnikov
+PERSON Raskolnikov
+PERSON Dostoevsky
+PERSON Raskolnikov
+PERSON Raskolnikov
+LOC Europe
+PERSON Raskolnikov
+PERSON Jung
+DATE the 20th century
+PERSON Stalin
+PERSON Superman
+PERSON Superman
+PERSON Superman
+PERSON Superman
+PERSON Superman
+PERSON Superman
+PERSON God
+PERSON God
+PERSON God
+PERSON Robin Williams
+PERSON Hook
+PERSON Peter Pan
+PERSON Hook
+DATE 40 year
+DATE 40 year old
+PERSON Peter Pan
+PERSON Stalin
+DATE between 1919 and nineteen fifty-nine
+PERSON Stalin
+PERSON Maleficent
+PERSON Aurora
+PERSON Lenin
+PERSON Lenin
+PERSON Lenin
+PERSON Stalin
+PERSON Lenin
+PERSON Hitler
+PERSON Knight
+PERSON Hitler
+DATE approximately twenty million years
+DATE thousands of years
+LOC Nile
+PERSON Laden
+PERSON Hitler
+PERSON Hitler
+PERSON Mufasa
+PERSON Simba
+PERSON Harry Potter
+PERSON Freud
+TIME a few minutes long instead of a catastrophe
+DATE four or five
+
+PERSON Jung
+PERSON Kelly
+PERSON Kelly
+DATE thousands of years
+PERSON Kelly
+DATE two weeks
+DATE six
+
+PERSON Ramachandran
+PERSON Jesus
+DATE this week next week
+LOC the Dome of the known
+PERSON Seth
+PERSON any
+PERSON Morgan
+TIME ten minutes
+PERSON William James
+DATE the 1880s
+ORG William James Journal of
+DATE 1968
+PERSON Ellen Burch
+PERSON Freud
+PERSON Jung
+DATE last year
+DATE 19th and 20th century
+PERSON Nietzsche
+PERSON Darwin
+PERSON Dostoyevsky
+PERSON Tolstoy
+PERSON Freud
+PERSON Julie
+DATE three-year-old
+PERSON Mikayla
+PERSON Julian
+PERSON Julian
+PERSON Mikayla
+PERSON Batum
+PERSON Mikayla
+PERSON Julian
+PERSON Julian
+PERSON Jiminy Cricket
+PERSON Pinocchio
+PERSON Jordan Peterson
+ORG the
+University of Toronto
+PERSON Maya
+DATE four year old
+DATE months
+PERSON Jordan
+PERSON aim
+PERSON Jordan
+PERSON Jordan
+PERSON Nate pears
+PERSON Marcus
+PERSON Goethe
+DATE months
+DATE 20 million years ago
+TIME this one hour
+TIME two hours
+TIME one hour
+DATE today
+DATE Tuesday
+TIME two hours
+DATE several hundred million years
+PERSON Crouch
+DATE tomorrow
+DATE next week
+DATE next month
+DATE next year
+PERSON Sagada
+PERSON Freud
+PERSON Freud
+PERSON Jung
+ORG Union
+DATE three or four years
+PERSON Piaget
+ORG Simpsons
+ORG Authority
+DATE this week
+DATE next week
+DATE the week
+DATE tens of millions of years
+
+PERSON Lynn
+
+PERSON Isabelle
+PERSON Peter Pan
+PERSON Medusa
+ORG Dawson College
+PERSON Lyndon Isabel
+PERSON Graham
+TIME about 15 minutes
+DATE a hundred and
+
+PERSON Horus
+PERSON Horus
+PERSON Jung
+LOC Amazon
+ORG Johns Hopkins
+ORG Johns Hopkins
+DATE like 40 years
+ORG Johns Hopkins

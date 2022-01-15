@@ -1,0 +1,4 @@
+PERSON Heidegger
+DATE every day
+ORG itelligence
+TIME 10 minutes

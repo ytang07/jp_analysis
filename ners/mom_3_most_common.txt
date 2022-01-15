@@ -1,0 +1,7 @@
+DATE today
+PERSON Sokolov
+LOC Earth
+TIME about nine minutes
+EVENT the Democratic convention
+MONEY 220 milion dollars
+ORG the Scrips (?) Institute

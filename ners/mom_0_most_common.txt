@@ -1,0 +1,7 @@
+DATE today
+PERSON Nietzsche
+LOC West
+ORG U.N.
+MONEY billions of dollars
+EVENT the Cold War
+TIME 8 hours

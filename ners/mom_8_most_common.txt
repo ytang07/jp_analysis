@@ -1,0 +1,5 @@
+PERSON Nietzsche
+EVENT World War one
+ORG Group a
+DATE the 20th century
+LOC Amazon

@@ -1,0 +1,5 @@
+PERSON carl rogers
+PERSON rogers
+PERSON Jung
+PERSON Freud
+PERSON Freud

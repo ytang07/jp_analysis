@@ -1,0 +1,76 @@
+PERSON Sigmund Freud
+TIME an hour
+PERSON Freud
+PERSON Freud Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Pierre jennae
+PERSON Freud
+PERSON Freud
+PERSON Descartes
+PERSON Freud
+PERSON Freud
+PERSON Freudian
+DATE the last thirty years
+PERSON Freud
+PERSON Chetty
+PERSON Freud
+PERSON Freud
+DATE Victorian
+DATE Victorian
+LOC Europe
+PERSON Henry
+PERSON Ellen Burgess
+PERSON Freud
+PERSON Jung
+PERSON Adler
+PERSON Freud
+PERSON Freud
+PERSON Allen Burgess
+DATE today
+DATE the 1950s late 1950s
+DATE the last say 40 years
+DATE the 1980s
+DATE the 1890s
+DATE 1895
+LOC Europe
+MONEY less than a dollar
+DATE 1970
+DATE 25 years ago
+PERSON Freudian
+PERSON Freud
+PERSON Alan bursae
+DATE 1904
+PERSON Freud
+PERSON Freud
+DATE a couple of weeks later
+ORG Netflix
+PERSON Jung
+PERSON Freudian
+PERSON Freud
+PERSON Freud
+PERSON Piaget
+PERSON Piaget
+PERSON Freud
+PERSON Freud
+PERSON Freud
+ORG Biological Psychiatry
+PERSON Freud
+PERSON Freud
+PERSON Freud
+ORG University of Toronto
+PERSON Freud
+PERSON Ramachandran
+TIME about 20 minutes
+PERSON Woody Allen's
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Russell Russell Peters
+PERSON Freud
+PERSON Freud
+PERSON Freud

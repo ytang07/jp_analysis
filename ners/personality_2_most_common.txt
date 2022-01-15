@@ -1,0 +1,6 @@
+LOC Earth
+DATE the 1880s
+PERSON Raskolnikov
+TIME two hours
+ORG Johns Hopkins
+University of Toronto

@@ -1,0 +1,5 @@
+PERSON Harry Potter
+MONEY hundreds of millions of dollars
+ORG Marvel
+DATE decades
+TIME two hours

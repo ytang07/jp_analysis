@@ -1,0 +1,7 @@
+PERSON Pinokio
+MONEY 300 dollars
+DATE two-year-old
+ORG YouTube
+TIME six hours
+EVENT World War I
+LOC Pleasure Island

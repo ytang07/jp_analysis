@@ -1,0 +1,179 @@
+DATE last week
+PERSON buckminster
+DATE seven million period Year
+DATE five hundred years
+TIME hours
+DATE days
+DATE weeks
+DATE months
+DATE two years
+PERSON piaget
+PERSON piaget
+PERSON heidegger
+PERSON heidegger
+PERSON pinocchio
+PERSON pinocchio
+PERSON Geppetto
+PERSON Geppetto
+PERSON pinocchio
+PERSON pinocchio
+PERSON Henry Ford
+PERSON ford
+PERSON Henry ford
+PERSON Eva
+PERSON Adam
+LOC Eden
+PERSON Alcona
+PERSON goldberg
+PERSON cronbach
+DATE the 1950s
+DATE the nineteen
+DATE 1980s
+PERSON Alexander
+PERSON Luria
+EVENT the second world war
+PERSON Who
+ORG the Montreal neurological institute
+DATE 30s
+DATE 50s
+DATE six months
+DATE Between 2 & 4
+DATE between 2 & 4
+DATE between 2 & 4
+DATE 5
+DATE 6
+PERSON Logan
+LOC the red sea
+TIME hours and hours
+DATE months
+DATE ten thousand hours
+PERSON pinocchio
+PERSON Geppetto
+PERSON Jiminy
+PERSON Pinocchio
+PERSON Pinocchio
+LOC the middle east
+DATE Tens of thousands of years
+DATE the late 1900s
+LOC the middle east
+PERSON Alcone
+PERSON Goldberg
+PERSON Alcone
+PERSON Goldberg
+ORG EEC
+PERSON spain
+DATE 2008
+PERSON Hero
+PERSON Horus
+PERSON Horus
+PERSON Medusa
+PERSON Harry Potter
+DATE a week later
+MONEY 150 thousand dollars
+DATE a week
+PERSON Jeffrey Gray
+PERSON Sokolov
+PERSON Ova
+PERSON Luria
+PERSON Jeffrey Gray
+PERSON Norbert Wiener
+PERSON Piaget
+PERSON Wiener
+PERSON Er Norbert Wiener
+PERSON Luria
+DATE the early 1920s Mid 1920s
+PERSON Norbert Wiener
+PERSON Gray Gray
+PERSON Gray
+PERSON Gray
+PERSON Gray
+PERSON Gray
+TIME 15 minutes
+PERSON Frans De Waal
+ORG the Arnhem Zoo
+PERSON De Waal
+PERSON De Waal
+PERSON De Waal
+TIME the next hour
+DATE a Thousand years
+DATE 3,000 years ago
+DATE between 2,000 and 3,000 years ago
+PERSON Marduk
+LOC the Middle East
+PERSON Apsu
+PERSON Tiamat
+DATE like 50,000 years
+DATE two-year-old
+DATE two-year-old
+DATE two-year-olds
+PERSON Nietzsche
+PERSON Tiamat
+ORG Disney
+DATE 40 year-old
+PERSON Tiamat
+PERSON Noah
+PERSON God
+PERSON Noah
+PERSON Moses
+LOC the Red Sea
+PERSON Tiamat
+EVENT the Global warming
+PERSON Apsu
+PERSON Tiamat
+PERSON Jig
+PERSON Timat
+PERSON Qingu
+PERSON Monster
+PERSON Satan
+PERSON Tiamat
+PERSON Marduk
+PERSON Marduk
+PERSON Tiamat
+PERSON Marduk
+PERSON Marduk
+PERSON Marduk
+PERSON Marduk
+PERSON Tiamat
+PERSON Qingu
+PERSON Tiamat
+PERSON Qingu
+PERSON Qingu
+PERSON Qingu
+PERSON Nakedness
+PERSON Qingu
+PERSON Marduk
+PERSON Marduk
+PERSON Marduk
+LOC Earth
+EVENT new year
+PERSON Chaos
+PERSON Chaos
+EVENT New Year
+DATE the old year
+EVENT The New Year
+EVENT New Year's Eve
+EVENT New Year's Eve
+EVENT the New Year
+EVENT New Year's Eve
+PERSON Garb
+DATE the last year
+EVENT New Year's
+DATE the next day
+PERSON Marduk
+DATE the last two thousand years
+PERSON Exodus
+PERSON Moses
+PERSON Moses
+PERSON Jung
+PERSON Geppetto Pinocchio
+PERSON Erickson
+PERSON Eric Erickson
+PERSON Osiris
+PERSON Apsu
+PERSON Apsu
+PERSON Marduk
+PERSON Osiris
+PERSON Seth
+PERSON Horus
+ORG State
+PERSON Osiris

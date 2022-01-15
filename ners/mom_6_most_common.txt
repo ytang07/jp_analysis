@@ -1,0 +1,7 @@
+DATE months
+PERSON Marduk
+TIME hours
+LOC the middle east
+EVENT New Year's Eve
+ORG the Montreal neurological institute
+MONEY 150 thousand dollars

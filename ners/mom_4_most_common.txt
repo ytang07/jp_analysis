@@ -1,0 +1,3 @@
+DATE the 1980
+PERSON Baldwin
+LOC amazon

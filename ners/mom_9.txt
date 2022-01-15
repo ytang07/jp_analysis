@@ -1,0 +1,166 @@
+PERSON Sam Harris
+PERSON Kant
+DATE three and a half billion years
+PERSON Piaget
+PERSON Eve
+PERSON Harry Potter
+PERSON Harry Potter
+PERSON Voldemort
+PERSON Nietzsche
+PERSON Europe
+PERSON Seth
+ORG Authority
+DATE 40s
+DATE 40
+DATE 30s
+DATE 40s
+PERSON Adam
+PERSON Eve
+PERSON Adam
+PERSON Eve
+PERSON Nietzsche
+TIME tonight
+PERSON Andrey
+LOC Europe
+PERSON Buddha
+PERSON Buddhas
+PERSON Adam
+PERSON Eve
+PERSON Cain
+PERSON Abel
+PERSON Cain
+PERSON Abel
+PERSON Cain
+PERSON Abel
+PERSON Cain
+PERSON Cain
+PERSON Cain
+PERSON Seth
+PERSON Cain
+PERSON Cain
+PERSON Kate
+PERSON Abel
+PERSON Eve
+DATE winter
+PERSON Piaget
+PERSON Owens
+DATE about ten years ago
+DATE eighteen-year-old
+PERSON Abel
+PERSON Cain
+PERSON Jesus
+PERSON Cain
+PERSON Roth
+PERSON Roth
+PERSON Cain
+DATE about 10 years
+PERSON Kane
+PERSON Caden
+PERSON Cain
+PERSON Cain
+PERSON Roth
+PERSON Abel
+PERSON Abel
+PERSON Abel
+PERSON Dostoyevsky
+PERSON the Skolnick Cobb
+PERSON Cain
+PERSON Restonic
+PERSON Olenick
+PERSON Paulding
+PERSON Skolnick
+PERSON God
+PERSON Skolnick
+PERSON Kain
+PERSON Reid
+PERSON Willie
+PERSON Hortense
+PERSON Willie
+PERSON Lamech
+PERSON Cain
+PERSON Cain
+PERSON Cain
+DATE about 30 years ago
+PERSON Hitler
+DATE a thousand years
+PERSON Hitler
+PERSON Hitler
+PERSON Kane
+PERSON Hitler
+PERSON Cain
+PERSON Cain
+PERSON Mircea Eliade
+PERSON Kane
+PERSON Kane
+ORG AB
+PERSON Slade Slade
+PERSON Seth
+PERSON Osiris
+PERSON Seth
+LOC st. Lawrence Street
+ORG American Army Corps of Engineers
+DATE 10,000 years
+ORG the Army Corps of Engineers
+DATE a hundred years
+PERSON Eliot
+PERSON Seth
+PERSON Erland Schrodinger
+PERSON Noah
+LOC Asia
+PERSON Noah
+PERSON Noah
+PERSON Punch
+PERSON Pinocchio
+PERSON Punch
+PERSON Noah
+PERSON Geppetto
+PERSON Pinocchio
+PERSON Noah
+PERSON Abel
+PERSON Messiah
+PERSON Noah
+PERSON Messiah
+PERSON Noah
+PERSON Cain Abell
+DATE the recent century
+PERSON Noah
+PERSON Robin
+PERSON Robin Dunbar
+PERSON Dunbar
+ORG the University of Toronto
+LOC Europe
+LOC Europe
+PERSON Stalin
+ORG the University of Toronto
+DATE the last thirty years
+DATE 2008
+ORG AIG
+ORG the Royal Bank of Scotland
+ORG Royal Bank of Scotland
+ORG AIG
+PERSON Abraham
+PERSON Northrop Frye
+ORG the University of Toronto
+PERSON Northrop Frye
+ORG the University of Toronto
+PERSON Prophet
+TIME about 12 minutes
+LOC Europe
+LOC Europe
+DATE the 80s
+DATE the 90s
+DATE the early 70s
+ORG Mohawk College
+ORG Mohawk College
+ORG University of Toronto
+ORG Simpsons
+PERSON Simpson
+DATE Christmas
+PERSON Homer
+PERSON Marge
+PERSON Homer
+PERSON Homer
+TIME tonight
+PERSON Peter Pan
+PERSON Pinocchio
+LOC Pleasure Island

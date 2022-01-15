@@ -1,0 +1,105 @@
+ORG Marvel
+ORG Marvel
+PERSON Batman
+PERSON Wolverine
+PERSON Batman
+ORG Marvel
+PERSON Carl Jung
+PERSON Jung
+PERSON Freud
+PERSON yung
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Jung
+PERSON Freud
+PERSON Jung
+PERSON Freud
+DATE 19th century
+PERSON Jung
+PERSON Jung
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Nietzsche
+PERSON Jung
+PERSON Nietzsche
+PERSON nietzsche
+PERSON Nietzsche
+PERSON Zarathustra
+PERSON Nietzsche
+PERSON Jung
+PERSON Jung
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Jung
+PERSON Freud
+PERSON Piaget
+PERSON the Lion King
+DATE a new day
+DATE a new day
+PERSON Freud
+PERSON Freud
+PERSON Jung
+PERSON Zazu
+PERSON Falken
+PERSON Piaget
+PERSON Freud
+PERSON Piaget
+PERSON Zazu
+PERSON Mufasa
+PERSON Simba
+ORG Union
+PERSON Musa Musa
+LOC Europe
+PERSON Mandela
+PERSON mandrill
+PERSON Bohr
+PERSON Reviva Faiz
+PERSON Neil
+PERSON scar
+PERSON scar
+PERSON Eliot
+PERSON Maria Eliot
+DATE 10,000 years
+PERSON John Milton
+PERSON Lucifer
+PERSON Milton
+PERSON scar
+PERSON Osiris
+PERSON Osiris
+PERSON Osiris
+PERSON Mufasa
+PERSON Mufasa
+PERSON Mufasa
+PERSON Jeremy Irons
+PERSON Mufasa
+PERSON Mufasa
+PERSON Mufasa
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Mufasa
+PERSON Simba
+PERSON Pinocchio
+PERSON Pinocchio
+PERSON Geppetto
+PERSON Jiminy Cricket
+PERSON Pinocchio
+PERSON Simba
+PERSON scar
+PERSON Simba
+PERSON Scar
+PERSON scar
+PERSON Simba
+PERSON anima
+PERSON Jesus

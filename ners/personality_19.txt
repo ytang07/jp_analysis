@@ -1,0 +1,36 @@
+PERSON Piaget
+PERSON William James
+DATE the late 1800s
+LOC New England
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+DATE three-year-old
+PERSON Nietzsche
+PERSON dragan
+MONEY 25,000
+PERSON Freud
+MONEY two hundred and fifty thousand dollars
+TIME fifteen minutes
+DATE the next three months
+TIME 15 minutes
+DATE the 20th century
+PERSON Hansel
+PERSON Hansel
+PERSON Freud
+DATE 30
+DATE week
+PERSON Dostoyevsky
+PERSON Lin
+PERSON Bell
+PERSON Lin
+PERSON Bell
+ORG the University of California
+PERSON George
+PERSON Michael
+PERSON George
+PERSON Hook
+PERSON George
+PERSON Peter Pan
+PERSON Hook

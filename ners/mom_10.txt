@@ -1,0 +1,77 @@
+DATE three months ago
+PERSON Victor
+PERSON Stephen Jay gould
+PERSON piaget
+PERSON piaget
+PERSON Piaget
+PERSON Piaget
+DATE tomorrow
+PERSON piaget
+PERSON piaget
+PERSON Force
+PERSON Piaget
+ORG Target
+PERSON Tyranny
+DATE half a billion years
+DATE The first two years
+DATE the other day
+PERSON carl jung
+PERSON Joseph Campbell
+PERSON Jeffrey Gray
+PERSON Ellis
+PERSON Buddha
+PERSON Buddha
+PERSON Buddha
+DATE today
+DATE two weeks
+DATE the last [2530] Years
+PERSON Tammy
+PERSON Jordon
+PERSON Tammy
+PERSON tammy
+PERSON Jordan
+PERSON Osiris
+PERSON Seth
+ORG Divorce Court
+PERSON Marduk
+PERSON marduk
+PERSON Ellis
+PERSON the Red Queen
+PERSON solzhenitsyn
+TIME three seconds
+TIME 10 minutes
+TIME 10 minutes
+PERSON Chris
+PERSON Ivan karamasoff
+PERSON Ivan
+PERSON Alyosha
+PERSON Ivan
+PERSON Dostoyevsky
+PERSON Ivan
+PERSON dostoyevsky
+PERSON rand
+PERSON Dusty
+PERSON Dostoevsky
+PERSON dostoyevsky
+PERSON pinocchio
+PERSON Geppetto
+PERSON harry Potter
+PERSON Harry Potter
+PERSON Jk. Rowling
+PERSON harry Potter
+PERSON hermione
+DATE two weeks
+PERSON wordsworth
+PERSON peter pan
+PERSON bert hold
+PERSON Eve
+PERSON Eve
+PERSON Eve
+PERSON mary
+DATE every three [months
+DATE the next year
+DATE today
+DATE next week
+DATE next month
+DATE this week
+DATE months

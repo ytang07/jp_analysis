@@ -1,0 +1,186 @@
+ORG Disney
+DATE last week
+DATE next week
+DATE next month
+DATE next year
+DATE 50 years from now
+DATE 300 million years ago
+DATE 300 million years ago
+PERSON Ernest Becker
+PERSON Becker
+PERSON Hobbes
+PERSON Rousseau
+PERSON Rousseau
+PERSON Hobbes
+PERSON Hobbes
+PERSON Rousseau
+PERSON Rousseau
+PERSON Hobbes
+PERSON Jane Goodall
+DATE the 1970
+PERSON Rousseau
+DATE about  
+DATE 7 million years ago
+DATE 20 million years
+TIME a tenth of a seconds
+PERSON Piaget
+PERSON Jean Piaget
+PERSON Piaget
+PERSON Piaget
+DATE 10 years old
+DATE ten
+PERSON Piaget
+PERSON Piaget
+DATE between the ages of 2 and 4
+DATE 2 years old
+DATE 2 year old
+DATE two
+DATE two year old
+DATE two year old
+DATE two year old
+PERSON Freud
+DATE the wrong day
+DATE two year old
+DATE two year old
+PERSON Skinner
+PERSON B.F. Skinner
+DATE between 2 and 4
+DATE between 2 and 4
+DATE 4
+DATE the age of 4
+DATE two year old
+DATE four
+DATE two year old
+DATE four year old
+DATE a two year old
+DATE four year old
+DATE a two year old
+DATE four year old
+DATE two year old
+DATE four year old
+DATE two to four
+DATE three
+DATE three
+DATE three year old
+PERSON Piaget
+DATE Seven months
+DATE Six months
+DATE Four months
+DATE 3.5 billion years
+DATE 3.5 billion years
+DATE about 80 years
+DATE 50 years
+PERSON Collodi
+ORG Disney
+ORG Disney
+LOC South America
+ORG Disney
+DATE four
+PERSON Rousseau
+PERSON Hobbes
+PERSON James Cameron's
+PERSON Frodo
+PERSON Bilbo
+LOC Shire
+PERSON Harry Potter
+PERSON Batman
+DATE thousands of years
+PERSON Jung
+PERSON Jung
+PERSON Erich Neumann
+PERSON Jung
+ORG Christianity
+PERSON Isis
+PERSON Horus
+DATE thousands and thousands of years
+ORG Judaism
+ORG Christianity
+PERSON God
+TIME 15 minutes
+DATE last week
+PERSON Jung
+PERSON Jung
+DATE about 1600, 1500
+PERSON Jung
+DATE the 20th century
+PERSON Jung
+TIME night
+DATE the last 15 years
+ORG U.N.
+DATE 2015
+DATE two years early
+LOC the Gulag Archipelago
+DATE last week
+PERSON Alexander Pope
+PERSON Publius Terentius Afer
+PERSON Terence
+PERSON Jung
+PERSON Douglas
+PERSON Douglas
+PERSON Hieronymus Bosch
+DATE like 30 years
+PERSON Hieronymus Bosch
+PERSON God
+PERSON Mother Nature
+PERSON Pinocchio
+PERSON Fate
+PERSON Fate
+DATE years
+PERSON Jiminy Cricket
+PERSON Jung
+PERSON Bugs Bunny
+PERSON Jiminy Cricket
+PERSON Pinocchio
+PERSON Jiminy Cricket
+PERSON Van Gogh
+DATE Christmas
+PERSON Jesus
+DATE 1920
+PERSON So
+PERSON J.C.
+PERSON Bingo
+PERSON God
+PERSON Christ
+DATE the first day
+PERSON Geppeto
+PERSON Sam Harris
+PERSON Sam Harris
+PERSON Christopher Hitchens
+PERSON Richard Dawkins
+PERSON Dan Dennet
+PERSON Dan Dennet's
+PERSON Heidegger
+PERSON Geppetto
+DATE thousands of years
+PERSON Geppetto
+DATE two
+DATE three
+PERSON Geppetto
+PERSON Chekov
+PERSON Geppetto
+PERSON Pinocchio
+PERSON Geppetto
+PERSON Geppetto
+PERSON Pinocchio
+DATE the next day
+PERSON Geppetto
+PERSON Pinocchio
+PERSON Geppetto
+PERSON Geppetto
+PERSON Freud
+PERSON Freud
+TIME an hour
+PERSON Geppetto
+PERSON Carl Rogers
+PERSON Pinocchio
+DATE 1920
+PERSON Pinocchio
+PERSON Pinocchio
+PERSON Pinocchio
+PERSON Geppetto
+PERSON Geppetto
+PERSON Geppetto
+DATE a new day
+PERSON Pinocchio
+PERSON Geppetto
+PERSON Geppetto

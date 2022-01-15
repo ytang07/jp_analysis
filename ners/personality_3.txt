@@ -1,0 +1,142 @@
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+DATE ten
+DATE ten
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+DATE today
+PERSON kuhn
+PERSON Piaget
+PERSON Kuhn
+PERSON Piaget
+PERSON Thomas Kuhns
+DATE 1962
+PERSON Piaget
+PERSON Newton
+PERSON Einstein
+PERSON Piaget
+PERSON Kuhn
+PERSON Kuhn
+PERSON Kuhn
+PERSON Einstein
+PERSON Piaget
+PERSON Piaget
+PERSON khun
+DATE the end of the 19th century
+DATE the end of the 19th century
+DATE the end of the 19th
+
+PERSON Piaget
+PERSON Piaget
+DATE 20 years
+DATE 20 years
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Tatian
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Sam Harris
+PERSON Sam Harris
+PERSON Piaget
+PERSON Ian
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON David Humes
+PERSON Harris
+PERSON David Hume
+PERSON Piaget
+PERSON Heidegger
+PERSON Harris
+PERSON Piaget
+PERSON Piaget
+PERSON Descartes
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Fran
+PERSON Fran
+PERSON Pia Jays
+PERSON Piaget
+ORG McDonald
+PERSON Piaget
+PERSON PJ
+PERSON Piaget
+PERSON varrick
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Freud
+PERSON Freud
+PERSON Piaget
+PERSON Piaget
+ORG the Supreme Court
+TIME tonight
+PERSON William James
+DATE the 1890s
+TIME about three minutes
+PERSON Piaget
+PERSON Charles
+PERSON JJ Gibson
+PERSON Piaget
+PERSON Piaget
+PERSON Pinocchio
+PERSON Piaget
+PERSON Kant
+PERSON Piaget
+PERSON Piaget
+PERSON William James
+PERSON Piaget
+PERSON PJ
+PERSON Piaget
+PERSON Rome Bruner
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+DATE ten thousand years ago
+PERSON Opia Jays
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON Piaget
+PERSON William James
+PERSON Piaget
+DATE two-year-olds
+DATE two-year-old
+DATE two-year-olds
+DATE two-year-old
+DATE about three
+PERSON Piaget
+DATE about three
+DATE between two
+
+DATE about five years
+PERSON Piaget
+TIME a minute
+PERSON Piaget
+DATE six months
+DATE three and a half
+TIME half an hour
+DATE three-year-olds
+DATE three-year-olds
+LOC Europe
+PERSON Nick
+PERSON Nick
+PERSON Jordan
+PERSON Nick
+PERSON Nick
+PERSON Bosch

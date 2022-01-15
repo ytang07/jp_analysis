@@ -1,0 +1,33 @@
+DATE next week
+PERSON Steve
+PERSON Jay Google
+DATE the 90s
+TIME the next three minutes
+TIME three minutes
+TIME three minutes
+PERSON Shelley Carson
+DATE just about 30 years ago
+DATE 20 years ago
+DATE three year
+ORG penguin Random House
+DATE January
+PERSON Integra
+DATE last year
+PERSON Sol
+PERSON Sol
+DATE the early 60s
+MONEY 10,000
+PERSON Bach
+PERSON Beethoven
+PERSON Brahms
+PERSON Tchaikovsky
+PERSON Mozart
+DATE at least one year of your life
+DATE at least one year
+LOC Europe
+PERSON Bale
+PERSON Goldberg
+PERSON Nietzsche
+PERSON Kaufmann
+PERSON Jacob Hirsch
+PERSON Colin Dion

@@ -1,0 +1,39 @@
+PERSON Gerald Adelman
+PERSON Freud
+DATE about 50 years
+DATE today
+DATE tomorrow
+TIME a couple
+
+TIME three hours
+TIME about three hours
+PERSON Freud
+PERSON st. George
+PERSON Jung
+PERSON Carl Jung
+PERSON Piaget
+PERSON Jung
+PERSON Freud
+PERSON Piaget
+PERSON Rogers
+PERSON Jordan
+PERSON Peterson
+DATE today
+DATE this year
+TIME an hour
+TIME two
+
+DATE tens of thousands of years
+PERSON Le ADA
+PERSON Andre Ellenberger Burge
+DATE the 20th century
+PERSON Jean Piaget
+PERSON Jung
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Freud
+PERSON Rogers
+PERSON Carl Rogers
+PERSON Rogers
+PERSON Rogers

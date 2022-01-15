@@ -1,0 +1,7 @@
+PERSON Simba
+LOC Pride Rock
+ORG UN
+DATE 17
+20th century
+MONEY dollar
+TIME the last minute

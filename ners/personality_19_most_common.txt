@@ -1,0 +1,6 @@
+PERSON Piaget
+DATE the late 1800s
+LOC New England
+MONEY 25,000
+TIME fifteen minutes
+ORG the University of California

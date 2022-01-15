@@ -1,0 +1,14 @@
+ORG the Isabel Bader Theatre
+DATE today
+ORG Human Engineering
+DATE a year from now
+DATE many  
+ORG University
+DATE about 40
+DATE 30
+DATE 40
+DATE 40
+DATE decades
+DATE 40
+DATE 40
+DATE the last 4 or 5 years
